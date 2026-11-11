@@ -46,7 +46,6 @@ A simple text-based Hangman game written in Python. The computer selects one wor
 
 ## Files
 - `hangman.py` – main game program.
-- `.gitignore` – ignores Python cache and local editor files.
 
-## Student Note
-Review the code, run it yourself, and make sure you can explain the game loop, random word selection, input validation, and win/lose conditions before submitting.
+
+
